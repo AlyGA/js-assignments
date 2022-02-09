@@ -1,1 +1,2 @@
 # js-assignments
+This repository will hold all the assignments assigned to me during my self-paced Javascript course. The course was made by Jonas Schmedtmann and all assignment tasks are written by him. The only items written by me are the solutions.
